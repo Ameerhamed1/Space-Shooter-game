@@ -44,6 +44,13 @@ This project has been compiled into a standalone binary file so that anyone can 
 2. Download the latest `Space_Shooter.exe` asset.
 3. Double-click the file on your local Windows platform and experience the game!
 
+---
+
+## 📜 Credits & Acknowledgments
+* **Core Tutorial & Concept:** Inspired by [@korsatxparmaga] on YouTube.
+* **Enhancements & Deployment:** Packaged into a standalone executable (`.exe`), optimized asset loading, and structured for production deployment by me.
+
+* 
 ### 💻 For Developers (Code Inspection):
 If you wish to explore the code architecture directly:
 1. Clone the project:
