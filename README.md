@@ -48,4 +48,4 @@ This project has been compiled into a standalone binary file so that anyone can 
 If you wish to explore the code architecture directly:
 1. Clone the project:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Space-Shooter-Game.git](https://github.com/YOUR_USERNAME/Space-Shooter-Game.git)
+   git clone [https://github.com/Ameerhamed1/Space-Shooter-Game.git](https://github.com/Ameerhamed1/Space-Shooter-Game.git)
